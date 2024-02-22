@@ -1,0 +1,19 @@
+{
+  "name": "thank-darcy",
+  "version": "1.0.0",
+  "description": "This project aims to provide an easy way to decrypt lecture notes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lm902/thank-darcy.git"
+  },
+  "author": "lm902",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/lm902/thank-darcy/issues"
+  },
+  "homepage": "https://github.com/lm902/thank-darcy#readme"
+}
