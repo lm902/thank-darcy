@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lm902/thank-darcy/issues"
   },
-  "homepage": "https://github.com/lm902/thank-darcy#readme"
+  "homepage": "https://github.com/lm902/thank-darcy#readme",
+  "dependencies": {
+    "openpgp": "^5.11.1"
+  }
 }
